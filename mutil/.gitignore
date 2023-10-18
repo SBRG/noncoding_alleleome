@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.fasta
+*.gff3
+*.gb
+*.svg
+*.png
+temp.csv
+*.pkl

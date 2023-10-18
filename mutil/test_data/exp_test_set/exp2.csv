@@ -1,0 +1,6 @@
+Position,Mutation Type,Sequence Change,Gene,Details,EXP2 A3 F50 I1 R1,EXP2 A3 F72 I0 R1,EXP2 A3 F244 I1 R1,EXP2 A3 F244 I0 R1,EXP2 A3 F244 I0 R2,EXP2 A4 F1 I0 R1,EXP2 A4 F2 I0 R1,EXP2 A4 F3 I0 R1
+1,SNP,C→A,rpoB,P1100Q (CCG→CAG) ,,0.5,1,0.84,1,,,
+2,SNP,T→G,"asdf, qwer",intergenic ,,0.7,,0.8,0.9,,,
+3,DEL,Delta 3,qwer,,,,,,,0.3,0.91,0.95
+4,SNP,C→T,fghj,D100Q (CCC→CCA) ,,,,,,0.2,0.7,0.97
+5,SNP,A→G,xcvb,B333G (TGG→GGG) ,,,,,,,0.2,0.4

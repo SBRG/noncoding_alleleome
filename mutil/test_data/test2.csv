@@ -1,0 +1,3 @@
+Position,Mutation Type,Sequence Change,Gene,Function,Product,GO Process,GO Component,Details,GLU A3 F50 I1 R1,GLU A3 F72 I0 R1,GLU A3 F244 I1 R1,GLU A3 F244 I0 R1,GLU A3 F244 I0 R2
+4181791,SNP,C→A,rpoB,,,,,P1100Q (CCG→CAG) ,,0.5,1,0.84,1
+100,SNP,T→G,asdf,,,,,,,0.9,,0.8,0.7
