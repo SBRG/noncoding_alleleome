@@ -30,4 +30,4 @@ The following software are required to successfully run this workflow and analys
 
 ## Overview
 
-The processing and analysis workflow are organized into the 
+The processing and analysis workflow are organized into 2 Jupyter notebooks: `0__build_alleleome` and `1__analyze_alleleome`. Only the latter need be run to analyze the pre-processed and analyzed alleleome reported in this publication. Otherwise, the former notebook may be used to re-generate an alleleome with more genomes/reference regions, or for a different organism. See these notebooks for detailed instructions on execution and analysis.
